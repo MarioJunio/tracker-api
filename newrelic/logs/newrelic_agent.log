@@ -1,0 +1,50 @@
+jul 12, 2020 23:17:45 -0300 [5129 1] com.newrelic INFO: Writing to New Relic log file: /Users/mariomartins/mj-workspace/tracker-api/newrelic/logs/newrelic_agent.log
+jul 12, 2020 23:17:45 -0300 [5129 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_251
+jul 12, 2020 23:17:45 -0300 [5129 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.251-b08
+jul 12, 2020 23:17:45 -0300 [5129 1] com.newrelic INFO: OS Mac OS X version 10.15.5 arch x86_64
+jul 12, 2020 23:17:45 -0300 [5129 1] com.newrelic INFO: Agent Host: MacBook-Pro.local IP: 127.0.0.1
+jul 12, 2020 23:17:45 -0300 [5129 1] com.newrelic INFO: New Relic Agent v5.13.0 is initializing...
+jul 12, 2020 23:17:46 -0300 [5129 11] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+jul 12, 2020 23:17:49 -0300 [5129 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+jul 12, 2020 23:17:51 -0300 [5129 1] com.newrelic INFO: Setting audit_mode to false
+jul 12, 2020 23:17:51 -0300 [5129 1] com.newrelic INFO: Setting protocol to "https"
+jul 12, 2020 23:17:51 -0300 [5129 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/mariomartins/mj-workspace/tracker-api/newrelic/./newrelic.yml
+jul 12, 2020 23:17:51 -0300 [5129 1] com.newrelic INFO: New Relic Agent v5.13.0 has started
+jul 12, 2020 23:17:51 -0300 [5129 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@593634ad
+jul 12, 2020 23:17:51 -0300 [5129 1] com.newrelic INFO: Premain startup complete in 7.902ms
+jul 12, 2020 23:17:54 -0300 [5129 42] com.newrelic INFO: Server Info: Apache Tomcat/9.0.36
+jul 12, 2020 23:17:56 -0300 [5129 30] com.newrelic INFO: Host name is MacBook-Pro.local, display host MacBook-Pro.local for application Tracker API
+jul 12, 2020 23:17:57 -0300 [5129 30] com.newrelic INFO: Collector redirection to collector-007.newrelic.com:443
+jul 12, 2020 23:17:57 -0300 [5129 30] com.newrelic INFO: Max payload size is 1.000.000 bytes
+jul 12, 2020 23:17:57 -0300 [5129 30] com.newrelic INFO: Agent run id: BXs_wF2VHUliACqdJC_h3zRfC8SUAAIBAAAnIQEAABQJAgAv4d8xAwAGNS4xMy4wABFNYWNCb29rLVByby5sb2NhbAALVHJhY2tlciBBUEk
+jul 12, 2020 23:17:57 -0300 [5129 30] com.newrelic INFO: Agent 5129@MacBook-Pro.local/Tracker API connected to collector.newrelic.com:443
+jul 12, 2020 23:17:57 -0300 [5129 30] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2792740/applications/803331889
+jul 12, 2020 23:17:57 -0300 [5129 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+jul 12, 2020 23:17:57 -0300 [5129 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+jul 12, 2020 23:17:58 -0300 [5129 30] com.newrelic INFO: Real user monitoring is enabled for application Tracker API. Auto instrumentation is enabled.
+jul 13, 2020 00:51:33 -0300 [5129 6] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+jul 13, 2020 00:51:33 -0300 [5129 6] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+jul 13, 2020 10:41:40 -0300 [6229 1] com.newrelic INFO: Writing to New Relic log file: /Users/mariomartins/mj-workspace/tracker-api/newrelic/logs/newrelic_agent.log
+jul 13, 2020 10:41:40 -0300 [6229 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_251
+jul 13, 2020 10:41:40 -0300 [6229 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.251-b08
+jul 13, 2020 10:41:40 -0300 [6229 1] com.newrelic INFO: OS Mac OS X version 10.15.5 arch x86_64
+jul 13, 2020 10:41:40 -0300 [6229 1] com.newrelic INFO: Agent Host: MacBook-Pro.local IP: 127.0.0.1
+jul 13, 2020 10:41:40 -0300 [6229 1] com.newrelic INFO: New Relic Agent v5.13.0 is initializing...
+jul 13, 2020 10:41:41 -0300 [6229 11] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+jul 13, 2020 10:41:44 -0300 [6229 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+jul 13, 2020 10:41:45 -0300 [6229 1] com.newrelic INFO: Setting audit_mode to false
+jul 13, 2020 10:41:45 -0300 [6229 1] com.newrelic INFO: Setting protocol to "https"
+jul 13, 2020 10:41:46 -0300 [6229 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/mariomartins/mj-workspace/tracker-api/newrelic/./newrelic.yml
+jul 13, 2020 10:41:46 -0300 [6229 1] com.newrelic INFO: New Relic Agent v5.13.0 has started
+jul 13, 2020 10:41:46 -0300 [6229 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@593634ad
+jul 13, 2020 10:41:46 -0300 [6229 1] com.newrelic INFO: Premain startup complete in 7.365ms
+jul 13, 2020 10:41:49 -0300 [6229 42] com.newrelic INFO: Server Info: Apache Tomcat/9.0.36
+jul 13, 2020 10:41:56 -0300 [6229 30] com.newrelic INFO: Host name is MacBook-Pro.local, display host MacBook-Pro.local for application Tracker API
+jul 13, 2020 10:41:56 -0300 [6229 30] com.newrelic INFO: Collector redirection to collector-007.newrelic.com:443
+jul 13, 2020 10:41:57 -0300 [6229 30] com.newrelic INFO: Max payload size is 1.000.000 bytes
+jul 13, 2020 10:41:57 -0300 [6229 30] com.newrelic INFO: Agent run id: BW8vA8mM1297ACqdJC_h3zRfDGTkAAIBAAAnIQEAABhVAgQv4d8xAwAGNS4xMy4wABFNYWNCb29rLVByby5sb2NhbAALVHJhY2tlciBBUEk
+jul 13, 2020 10:41:57 -0300 [6229 30] com.newrelic INFO: Agent 6229@MacBook-Pro.local/Tracker API connected to collector.newrelic.com:443
+jul 13, 2020 10:41:57 -0300 [6229 30] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2792740/applications/803331889
+jul 13, 2020 10:41:57 -0300 [6229 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+jul 13, 2020 10:41:57 -0300 [6229 30] com.newrelic INFO: Using default collector host: collector.newrelic.com
+jul 13, 2020 10:41:57 -0300 [6229 30] com.newrelic INFO: Real user monitoring is enabled for application Tracker API. Auto instrumentation is enabled.
